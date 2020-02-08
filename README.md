@@ -1,4 +1,3 @@
-![AdminSnatcher In Action](https://i.ibb.co/NSBPRSX/adminsnatcher.png)
 # AdminSnatcher
 Let's Snatch The Admin Panel Of Any Website In Seconds.
 # Requirements
